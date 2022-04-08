@@ -1,8 +1,8 @@
 package src.headfirst.designpatterns.strategy;
 
-import src.headfirst.designpatterns.adapter.Duck;
-import src.headfirst.designpatterns.adapter.MallardDuck;
-import src.headfirst.designpatterns.adapter.ModelDuck;
+import src.headfirst.designpatterns.adapter.ducks.Duck;
+import src.headfirst.designpatterns.adapter.ducks.MallardDuck;
+import src.headfirst.designpatterns.adapter.ducks.ModelDuck;
 
 public class MiniDuckSimulator {
   public static void main(String[] args) {
