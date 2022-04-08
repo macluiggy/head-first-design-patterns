@@ -1,4 +1,4 @@
-package src.headfirst.designpatterns.adapter;
+package src.headfirst.designpatterns.ducks;
 
 import src.headfirst.designpatterns.strategy.FlyWithWings;
 import src.headfirst.designpatterns.strategy.Quack;
