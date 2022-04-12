@@ -6,7 +6,7 @@ import src.headfirst.designpatterns.strategy.QuackBehavior;
 public abstract class Duck {
   QuackBehavior quackBehavior;
   FlyBehavior flyBehavior;
-
+ 
   public Duck() {
   }
 
